@@ -1,0 +1,30 @@
+{
+  "name": "gpschamp-tracker",
+  "version": "1.1.0",
+  "description": "Let you work with some GPS trackers that connects through tcp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keshavvats/gpschamp-tracker.git"
+  },
+  "keywords": [
+    "gps",
+    "tracker",
+    "Tk103",
+    "car",
+    "gps"
+  ],
+  "author": "Keshav Pandit (https://github.com/keshavvats/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/keshavvats/gpschamp-tracker/issues"
+  },
+  "homepage": "https://github.com/keshavvats/gpschamp-tracker",
+  "dependencies": {
+    "crc16-ccitt-node": "^1.0.4",
+    "node.extend": "*"
+  }
+}
